@@ -13,7 +13,11 @@ var About = (props) => {
             The JavaScript framework used.
         </li>
         <li>
-          <a href="https://openweathermap.org">Open Weather Map</a> -
+          <a href="http://foundation.zurb.com/">Foundation</a> -
+            The front-end framework used.
+        </li>
+        <li>
+          <a href="http://openweathermap.org">Open Weather Map</a> -
             The Open Weather Map API was used for weather information.
         </li>
       </ul>
